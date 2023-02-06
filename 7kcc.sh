@@ -1,7 +1,7 @@
 #!/system/xbin/bash
 
 clear
-git clone 
+git clone https://github.com/juanelco77/L7k-privated
 clear
 cd module
 cat baner.txt | lolcat
