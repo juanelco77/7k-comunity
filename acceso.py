@@ -73,7 +73,7 @@ def main():
 	else:
 		os.system("clear")
 		print("\n\033[1;31mLO SIENTO " , nick, " INGRESASTE UN USUARIO INCORRECTO !!!\033[00m")
-		print(azul, "\nSI NO SABES EL USUARIO COMUNICATE CON !L7K#0009 (DISCORD))
+		print(azul, "\nSI NO SABES EL USUARIO COMUNICATE CON !L7K#0009 (DISCORD)")
 		time.sleep(3.3)
 		os.system("clear")
 		restart()
